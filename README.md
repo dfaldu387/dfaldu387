@@ -4,11 +4,7 @@
 <h3 align="center">A passionate Full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dfaldu387&label=Profile%20views&color=0e75b6&style=flat" alt="dfaldu387" /> </p>
-<img style="float: right;" alt="coding" width="400" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/339771133/original/8bf07a3544d8bb14faf5424323bf6e1dc3dbda17/animate-your-images-in-best-loop-and-gif.png">
-
-
-
-
+<img align="right" alt="coding" width="400" src="https://clipclip.com/wp-content/uploads/elementor/thumbs/cc-programmer-2-q8lnh9t1o9xqpuckc9fk20k0z1d1ncng6rl9gtc7wg.png?x59089">
 
 - 🔭 I’m currently working on **scalable web applications.**
 
